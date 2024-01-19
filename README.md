@@ -24,10 +24,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kotdanissimo/kotdanissimo/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/kotdanissimo/count.svg?"  />
 </div>
