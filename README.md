@@ -6,10 +6,9 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kotdanissimo&theme=tokyonight&hide_border=false)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kotdanissimo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 ![](https://github-contributor-stats.vercel.app/api?username=kotdanissimo&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kotdanissimo&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
