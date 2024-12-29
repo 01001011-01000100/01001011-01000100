@@ -10,16 +10,9 @@
   <img height="175em"
     src="https://github-readme-stats.vercel.app/api?username=kotdanissimo&hide_border=true&count_private=true&show_icons=true&theme=tokyonight"
     >
-  <img height="175em"
-    src="https://github-contributor-stats.vercel.app/api?username=kotdanissimo&hide_border=true&limit=5&combine_all_yearly_contributions=true&theme=tokyonight"
-    >
-    <p/>
       
 <p align="center">
   <img height="100em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kotdanissimo&hide_border=true&include_all_commits=false&count_private=false&layout=compact&theme=tokyonight">
     <p/>
 
----
-
-[![](https://visitcount.itsvg.in/api?id=kotdanissimo&icon=5&color=6)](https://visitcount.itsvg.in)
